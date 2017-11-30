@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0
+}
+body{
+    background-color: #00f;
+    color: #fff;
+}
+#tupian{
+    background-image: url(../images/demo-1-bg.jpg);
+    width: 1366px;
+    height: 768px;
+    transform: rotate(45deg);
+    box-shadow: 1px 1px 0 rgba(red, green, blue, .25);
+}
+#aaa{
+    background-color: green;
+    color: #eee;
+}
